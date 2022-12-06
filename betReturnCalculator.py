@@ -16,7 +16,7 @@ class Card:
         return self.numCard/deck # static (but updatable) value assigned to that attribute. if self.numCard/deck was in __init__, it would only get checked when the instance is
     'This property is the      ' # initialized. a property will execute its function every time it's called and return its dynamic value the same way an attribute would its static value.
     'probability of this type  '
-    'of card being drawn.'
+    'of card being drawn.      '
 
     def __str__(self) -> str: # defines how the class Card will be displayed if called in a print() or str() function.
         return f"There are {self.numCard} {self.card}s remaining in the deck. {self.numDrawn} have been drawn. The probability of drawing {self.card}s is {self.probability}."
