@@ -64,4 +64,8 @@ def draw(): # this function simulates drawing a card based on a random number an
             
 
 
-draw()
+draw() # calls the draw function to run the program.
+
+
+## TODO:
+##      add logic to calculate probability of each permutation
