@@ -7,6 +7,7 @@ The player bets B$. The player then rolls a d20 down a dice tower which leads in
 
 
 ![Figure 1](/images/Figure%201.png)
+
 Figure 1
 
 ## TODO
