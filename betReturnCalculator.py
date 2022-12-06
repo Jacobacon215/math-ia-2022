@@ -69,3 +69,4 @@ draw() # calls the draw function to run the program.
 
 ## TODO:
 ##      add logic to calculate probability of each permutation
+##      move global variables into a main() function
