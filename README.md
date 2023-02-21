@@ -1,3 +1,7 @@
+OVERHAUL README, JUST ADD A PDF OF MY COMPLETED IA
+
+
+
 # Math IA
 ## Overview
 This is the probability calculation code for my internal assessment in International Baccalaureate Mathematics: Analysis and Approaches (Standard Level). My project is centered around probability: I'm making a heavily dealer-weighted gambling game. See [The Game](#the-game) for a detailed explanation of the rules and mechanics.
